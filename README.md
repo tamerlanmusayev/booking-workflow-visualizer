@@ -1,4 +1,4 @@
-# 🎛️ booking-workflow-visualizer
+# 🎛️ react-booking-workflow-visualizer
 
 Веб-приложение на **React** и **XState** для визуализации и управления состояниями бронирований, позволяющее отслеживать историю событий и безопасно менять статусы бронирования в зависимости от текущего состояния.
 
@@ -26,8 +26,8 @@
 ## ⚙️ Установка
 
 ```bash
-git clone https://github.com/tamerlanmusayev/booking-workflow-visualizer.git
-cd booking-workflow-visualizer
+git clone https://github.com/tamerlanmusayev/react-booking-workflow-visualizer.git
+cd react-booking-workflow-visualizer
 npm install
 npm start
 ```
