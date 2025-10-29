@@ -1,0 +1,22 @@
+{
+  "languageRussian": "Русский",
+  "languageEnglish": "Английский",
+  "bookingVisualizer": "Визуализатор бронирований",
+  "currentState": "Текущее состояние:",
+  "addState": "Добавить новое состояние",
+  "stateNamePlaceholder": "Название состояния",
+  "add": "Добавить",
+  "addTransition": "Добавить новый переход",
+  "sourceState": "Исходное состояние",
+  "targetState": "Целевое состояние",
+  "transitionLabelPlaceholder": "Название перехода",
+  "addTransitionButton": "Добавить переход",
+  "history": "История переходов:",
+  "CONFIRM": "Подтвердить",
+  "CHECK_IN": "Заселение",
+  "CHECK_OUT": "Выселение",
+  "CANCEL": "Отмена",
+  "PENDING": "Ожидает",
+  "booking": "Бронирование",
+  "at": "at"
+}

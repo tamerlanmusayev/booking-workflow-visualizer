@@ -1,0 +1,42 @@
+.booking-list {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.booking-card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 16px;
+  width: 300px;
+  background-color: #f9f9f9;
+}
+
+.buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 10px 0;
+}
+
+button.active {
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button.disabled {
+  background-color: #ddd;
+  color: #666;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 4px;
+  cursor: not-allowed;
+}
+
+.history {
+  margin-top: 12px;
+}
